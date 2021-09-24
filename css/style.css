@@ -1,0 +1,18 @@
+.image {
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+.image_header {
+    z-index: 0;
+}
+.image_symbol {
+    z-index: 1;
+}
+#day_night{
+    margin-left: -112px;
+    float: initial; 
+}
+#symbol{
+    margin-left: 875px;
+}
